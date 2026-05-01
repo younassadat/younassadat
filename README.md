@@ -1,20 +1,54 @@
-Younas Sadat
-About Me
+# Younas Sadat
+### *Building at the frontier. Grounded at the root.*
 
-I am from Pakistan and I am interested in science, technology, and creativity. My main passion is quantum computing, artificial intelligence, and learning how advanced technologies can help people in the future. I enjoy exploring difficult ideas such as uncertainty, mathematics, and how the world works at the smallest level.
+---
 
-I also like building projects and learning new technical skills. I work with tools such as Python and modern web technologies, and I am interested in creating useful AI products and automation systems.
+I am a **quantum researcher**, **tech entrepreneur**, and **poet** from Pakistan —  
+exploring the space where quantum mechanics meets human expression.
 
-Alongside technology, I enjoy poetry and writing. I believe science and creativity can exist together, and both help us understand life in different ways.
+I build AI products, study the mathematics of uncertainty, and write verse.  
+My work is anchored in **Islamic values** and a belief that the deepest questions  
+of science and literature are the same questions.
 
-My values are important to me, and I try to keep my work grounded in discipline, curiosity, and Islamic principles.
+> *"In every particle, a sign — in every line of code, a kind of prayer."*
 
-Current Focus
-Learning Quantum Computing
-Building AI Projects
-Studying A-Level Computer Science, Physics, and Mathematics
-Improving programming skills
-Writing poetry and personal ideas
-Goal
+---
 
-My goal is to grow into a researcher and builder who can contribute to future technologies while staying connected to purpose and values.
+## ⚛️ Focus Areas
+
+| Domain | Work |
+|---|---|
+| **Quantum Technologies** | QRNG research · quantum mechanics · procedural systems |
+| **AI Engineering** | LLM-powered products · automation agents · Islamic AI |
+| **Literature & Poetry** | Published poet · science writer · Seerah scholarship |
+| **Research** | QRNG vs PRNG · quantum procedural generation |
+
+---
+
+## 🔭 Currently
+
+- ⚛️ **Researching** → QRNG for procedural game world generation
+- 📖 **Writing** → Poetry collection *(forthcoming)*
+- 🛠️ **Building** → AI products at the intersection of faith and technology
+- 📐 **Studying** → A-Level Computer Science · Physics · Mathematics
+
+---
+
+## 🧰 Stack & Interests
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-6929C4?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=flat-square)
+
+---
+
+```
+younas@frontier:~$ whoami
+→ quantum researcher · builder · poet · seeker
+```
+
+---
+
+📬 [LinkedIn](https://linkedin.com/in/younas-sadat-9b9185350) · ✍️ Scientist Magazine · 📖 Poetry (forthcoming)

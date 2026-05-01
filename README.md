@@ -3,14 +3,11 @@
 
 ---
 
-I am a **quantum researcher**, **tech entrepreneur**, and **poet** from Pakistan —  
-exploring the space where quantum mechanics meets human expression.
+I am a **quantum researcher**, **tech entrepreneur**, and **AI builder** from Pakistan —  
+exploring the space where quantum mechanics meets real-world software.
 
-I build AI products, study the mathematics of uncertainty, and write verse.  
-My work is anchored in **Islamic values** and a belief that the deepest questions  
-of science and literature are the same questions.
-
-> *"In every particle, a sign — in every line of code, a kind of prayer."*
+I build AI products, research quantum randomness, and document everything I learn.  
+My work is driven by curiosity, discipline, and a long-term view.
 
 ---
 
@@ -20,17 +17,17 @@ of science and literature are the same questions.
 |---|---|
 | **Quantum Technologies** | QRNG research · quantum mechanics · procedural systems |
 | **AI Engineering** | LLM-powered products · automation agents · Islamic AI |
-| **Literature & Poetry** | Published poet · science writer · Seerah scholarship |
 | **Research** | QRNG vs PRNG · quantum procedural generation |
+| **Learning in Public** | Documenting the quantum computing journey |
 
 ---
 
 ## 🔭 Currently
 
 - ⚛️ **Researching** → QRNG for procedural game world generation
-- 📖 **Writing** → Poetry collection *(forthcoming)*
 - 🛠️ **Building** → AI products at the intersection of faith and technology
 - 📐 **Studying** → A-Level Computer Science · Physics · Mathematics
+- 📖 **Learning** → Quantum mechanics prerequisites — heading into Qiskit in June
 
 ---
 
@@ -41,14 +38,15 @@ of science and literature are the same questions.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-6929C4?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
 ---
 
 ```
 younas@frontier:~$ whoami
-→ quantum researcher · builder · poet · seeker
+→ quantum researcher · AI builder · perpetual learner
 ```
 
 ---
 
-📬 [LinkedIn](https://linkedin.com/in/younas-sadat-9b9185350) · 📖 Poetry (forthcoming)
+📬 [LinkedIn](https://linkedin.com/in/younas-sadat-9b9185350) · 📍 Islamabad, Pakistan

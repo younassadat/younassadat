@@ -51,4 +51,4 @@ younas@frontier:~$ whoami
 
 ---
 
-📬 [LinkedIn](https://linkedin.com/in/younas-sadat-9b9185350) · ✍️ Scientist Magazine · 📖 Poetry (forthcoming)
+📬 [LinkedIn](https://linkedin.com/in/younas-sadat-9b9185350) · 📖 Poetry (forthcoming)
